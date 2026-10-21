@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Resonance</string>
+    <string name="tab_tracks">Tracks</string>
+    <string name="tab_playlists">Playlists</string>
+    <string name="tab_artists">Artists</string>
+    <string name="tab_equalizer">Sound</string>
+    
+    <string name="title_now_playing">Now Playing</string>
+    <string name="title_queue">Current Queue</string>
+    <string name="title_equalizer">Audio FX &amp; EQ</string>
+    <string name="title_create_playlist">Create Playlist</string>
+    <string name="title_favorites">Favorites</string>
+    <string name="title_recently_played">Recently Played</string>
+    <string name="title_sleep_timer">Sleep Timer</string>
+    
+    <string name="action_play">Play</string>
+    <string name="action_pause">Pause</string>
+    <string name="action_previous">Previous</string>
+    <string name="action_next">Next</string>
+    <string name="action_shuffle">Shuffle</string>
+    <string name="action_repeat">Repeat</string>
+    <string name="action_search">Search tracks, artists, albums…</string>
+    <string name="action_scan_device">Scan Device Music</string>
+    <string name="action_open_file">Open Audio File</string>
+    <string name="action_add_to_playlist">Add to Playlist</string>
+    
+    <string name="eq_preset_normal">Flat / Normal</string>
+    <string name="eq_preset_bass_boost">Bass Boost</string>
+    <string name="eq_preset_acoustic">Acoustic Warmth</string>
+    <string name="eq_preset_electronic">Electronic Club</string>
+    <string name="eq_preset_rock">Rock &amp; Metal</string>
+    <string name="eq_preset_vocal">Vocal Clarity</string>
+</resources>

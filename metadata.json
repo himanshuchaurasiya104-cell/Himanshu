@@ -1,0 +1,6 @@
+{
+  "name": "Resonance",
+  "description": "A sleek, feature-packed offline music player with built-in synthesizers, local library scanning, custom playlists, dynamic audio visualizers, equalizer presets, and seamless playback controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

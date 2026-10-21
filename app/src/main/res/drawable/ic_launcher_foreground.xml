@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer Vinyl Groove Glow -->
+    <path
+        android:pathData="M54,26 C70.57,26 84,39.43 84,56 C84,72.57 70.57,86 54,86 C37.43,86 24,72.57 24,56 C24,39.43 37.43,26 54,26 Z"
+        android:strokeWidth="2.5"
+        android:strokeColor="#382E6B"
+        android:fillColor="#00000000" />
+    <!-- Inner Groove Ring -->
+    <path
+        android:pathData="M54,34 C66.15,34 76,43.85 76,56 C76,68.15 66.15,78 54,78 C41.85,78 32,68.15 32,56 C32,43.85 41.85,34 54,34 Z"
+        android:strokeWidth="1.5"
+        android:strokeColor="#56469C"
+        android:fillColor="#00000000" />
+    <!-- Center Vinyl Label Circle -->
+    <path
+        android:pathData="M54,42 C61.73,42 68,48.27 68,56 C68,63.73 61.73,70 54,70 C46.27,70 40,48.27 40,56 C40,63.73 46.27,70 54,70 Z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:startX="40"
+                android:startY="42"
+                android:endX="68"
+                android:endY="70"
+                android:type="linear">
+                <item android:color="#A855F7" android:offset="0.0" />
+                <item android:color="#EC4899" android:offset="1.0" />
+            </gradient>
+        </aapt:attr>
+    </path>
+    <!-- Center Spindle Hole -->
+    <path
+        android:pathData="M54,53 C55.66,53 57,54.34 57,56 C57,57.66 55.66,59 54,59 C52.34,59 51,57.66 51,56 C51,54.34 52.34,53 54,53 Z"
+        android:fillColor="#0E0A1A" />
+    <!-- Music Note Accent Overlay -->
+    <path
+        android:pathData="M62,32 L62,52 C60.6,50.8 58.9,50 57,50 C53.13,50 50,53.13 50,57 C50,60.87 53.13,64 57,64 C60.87,64 64,60.87 64,57 L64,38 L72,35 L72,30 Z"
+        android:fillColor="#FFFFFF" />
+</vector>
